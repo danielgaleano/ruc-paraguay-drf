@@ -121,6 +121,7 @@
             "index": "pypi",
             "version": "===3.2.18"
         },
+<<<<<<< HEAD
         "django-environ": {
             "hashes": [
                 "sha256:510f8c9c1d0a38b0815f91504270c29440a0cf44fab07f55942fa8d31bbb9be6",
@@ -129,6 +130,8 @@
             "index": "pypi",
             "version": "==0.10.0"
         },
+=======
+>>>>>>> bd392d845cac62dec449926c931608af7328707f
         "idna": {
             "hashes": [
                 "sha256:814f528e8dead7d329833b91c5faa87d60bf71824cd12a7530b5526063d02cb4",
